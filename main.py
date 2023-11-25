@@ -7,7 +7,6 @@ import time
 amountOfStandardActions = 1
 amountOfSwiftActions = 1
 amountOfMovementActions = 1
-RestrictedActivity = False
 loopManager = True
 actionUsed = ""
 chausableOfFellPower = True
